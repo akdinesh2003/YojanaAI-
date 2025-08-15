@@ -153,19 +153,7 @@ We welcome contributions! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Author
 
-- OpenAI for providing the GPT API
-- Government of India for making schemes accessible
-- Open source community for various libraries and tools
-
-## 📞 Support
-
-If you have any questions or need help, please:
-- Open an issue on GitHub
-- Contact the development team
-- Check our documentation
-
----
-
-**Made with ❤️ for the people of India**
+ak dinesh
+https://github.com/akdinesh2003
